@@ -1,1 +1,1 @@
-# computational-statistics-assignment
+# computational-statistics
